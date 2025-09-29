@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/simple-to-do-list-application-23351-23360/to_do_list_frontend"
+}
